@@ -276,7 +276,7 @@ The [Steering Group]'s determination in each instance is final and non-appealabl
 ### Notice for Living Standards
 
 [Living Standards][Living Standard] must include the following notice, including the link:
-> Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+> Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Alternatively, this work is licensed under a [BSD 3-Clause License] for incorporation into software.
 
 In the text above, YEAR must be replaced by the current year at the time the [Living Standard] is published.
 
@@ -289,7 +289,7 @@ In the text above, "Living Standard Review Draft" must link to the latest [Revie
 ### Notice for Living Standard Review Drafts
 
 [Living Standard Review Drafts][review-draft] must include the following notice, including the link:
-> Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+> Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Alternatively, this work is licensed under a [BSD 3-Clause License] for incorporation into software.
 
 In the text above, YEAR must be replaced by the current year at the time the [Living Standard Review Draft][review-draft] is published.
 
@@ -335,11 +335,12 @@ must include the text of the applicable license in a LICENSE file.
 
 The contents of the license file must start with:
 > Copyright © YEAR WHATWG (Apple, Google, Mozilla, Microsoft).
-> This work is licensed under a Creative Commons Attribution 4.0 International License:
+> This work is licensed under a Creative Commons Attribution 4.0 International License.
+> Alternatively, this work is licensed under a BSD 3-Clause License for incorporation into software.
 
 where YEAR is the current year. This copyright notice must be followed
 by the full text of the Creative Commons Attribution 4.0 International
-License in plaintext.
+License and the BSD 3-Clause License in plaintext.
 
 The SG repository has an example of how to do this correctly in its [LICENSE file](./LICENSE).
 
@@ -361,6 +362,7 @@ initiatives.
 
 [contributor]: ./IPR%20Policy.md#contributor
 [review-draft]: ./Workstream%20Policy.md#review-draft
+[BSD 3-Clause License]: ./BSD%203-Clause%20License.md
 [Code of Conduct]: ./Code%20of%20Conduct.md
 [Contributions]: ./IPR%20Policy.md#21-contribution
 [Contributor and Workstream Participant Agreement]: https://participate.whatwg.org/agreement
